@@ -37,14 +37,23 @@ My biggest strength is my ability to adapt. I can quickly learn and adjust to ne
  [Server Github Repo](https://github.com/sanjoy5/piccamp-academy-server)
 
 Users can access this website as admin, instructor and Student with different Dashboard. Instructor can add, update , delete Classes and Student can select , payment and enrolled. Admin will manage all users and classes, add feedback, approve or deny classes etc. <br /> <br/>
-**Technology** : React, React-router-dom, Context API, NodeJS, Express, MongoDB, Tailwind, JWT, Vercel, Firebase Authentication, Stripe, React-hook-form, Sweet Alert, Framer Motion etc.
+**Technology** : React, React-router-dom, Context API, NodeJS, Express, MongoDB, Tailwind, JWT, Vercel, Firebase Authentication, Stripe, React-hook-form, Sweet Alert, Framer Motion, etc.
 
  #### MegaShop (React and Django Project)
  [Live Site](https://mega-shop-c3cd9.web.app/) --
  [Github Repo](https://github.com/sanjoy5/megashop-server)
 
-Full featured shopping cart with PayPal & credit/debit payments. Product rating & review system. Product search, carousel, pagination & more. Admin area to manage customers, products & orders. <br /> <br/>
-**Technology** : React, Redux Toolkit, Django, Django Rest API, JWT & Postgres.
+Full-featured shopping cart with PayPal & credit/debit payments. Product rating & review system. Product search, carousel, pagination & more. Admin area to manage customers, products & orders. <br /> <br/>
+**Technology**: React, Redux Toolkit, Django, Django Rest API, JWT & Postgres.
+
+ #### Heroic Havens (MERN Project)
+ [Live Site](https://heroic-havens.web.app/) --
+ [Client Github Repo](https://github.com/sanjoy5/heroic-havens-app) --
+ [Server Github Repo](https://github.com/sanjoy5/heroic-havens-server)
+
+A fully responsive and dynamic website with advanced features. Authenticated Users can add, Update and Delete, Search Products. All Toys, My Toys, Toys Details, Shop by Category, Sorting, Search, and more. <br /> <br/>
+**Technology**: React, React Router Dom, Context API, Node JS, Express, MongoDB, Tailwind,
+Firebase, Vercel, AOS etc.
  
 </div>
   

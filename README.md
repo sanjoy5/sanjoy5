@@ -1,13 +1,17 @@
-### Hi there 👋
+## Hi 👋 I'm Sanjoy Sarker
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+### I'm a junior full stack web developer
+🌐
+[Portfolio Website](https://sanjoy-sarker.web.app/)
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
- <div>
-   <img align="center" alt="Rafa-HTML" height="18" width="18" src="https://i.ibb.co/ss3BR3K/world-wide-web.png"> 
-[GitHub Pages](https://pages.github.com/)
- </div>
+## About Me
+I'm Sanjoy Sarker. I am from Kishoregonj, Dhaka. But currently staying at gazipur, Dhaka. I am a final year student of Computer Science Engineering in Shanto-Mariam University of creative technology.
+
+As a junior full stack web developer, I have 2+ years of hands-on experience and gained proficiency in a wide range of technologies and frameworks. Recently, I have completed the Complete Web Development Course from Programming Hero. Additionally, I have acquired skills in Python Django through the Complete Course on Udemy and The Ultimate Django Series from Code With Mosh.
+
+My biggest strength is my ability to adapt. I can quickly learn and adjust to new technologies and frameworks, which helps me stay up-to-date in a rapidly changing industry. In terms of achievements, I have successfully completed several projects that have allowed me to apply my skills and expand my knowledge.
+
+## Language and Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,10 +22,33 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+
+<div>
+
+ ## Some Projects
+
+ #### PicCamp Academy (MERN Project)
+ [Live Site](https://pic-camp-academy.web.app/) --
+ [Client Github Repo](https://github.com/sanjoy5/piccamp-academy-client) --
+ [Server Github Repo](https://github.com/sanjoy5/piccamp-academy-server)
+
+Users can access this website as admin, instructor and Student with different Dashboard. Instructor can add, update , delete Classes and Student can select , payment and enrolled. Admin will manage all users and classes, add feedback, approve or deny classes etc. <br /> <br/>
+**Technology** : React, React-router-dom, Context API, NodeJS, Express, MongoDB, Tailwind, JWT, Vercel, Firebase Authentication, Stripe, React-hook-form, Sweet Alert, Framer Motion etc.
+
+ #### MegaShop (React and Django Project)
+ [Live Site](https://mega-shop-c3cd9.web.app/) --
+ [Github Repo](https://github.com/sanjoy5/megashop-server)
+
+Full featured shopping cart with PayPal & credit/debit payments. Product rating & review system. Product search, carousel, pagination & more. Admin area to manage customers, products & orders. <br /> <br/>
+**Technology** : React, Redux Toolkit, Django, Django Rest API, JWT & Postgres.
+ 
 </div>
   
-  ##
+  ## Connect With Me
  
 <div> 
   <a href="https://www.facebook.com/sanjoysarker123" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
@@ -29,6 +56,14 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href = "mailto:sanjoysarker157@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Statistics
+<div>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoy5&show_icons=true&locale=en&layout=compact" alt="sanjoy5" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjoy5&show_icons=true&locale=en" alt="sanjoy5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjoy5&" alt="sanjoy5" /></p>
+</div>
+
 
 
 <!--

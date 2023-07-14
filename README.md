@@ -3,7 +3,7 @@
 
 ### I'm a junior full stack web developer
 🌐
-[Portfolio Website](https://sanjoy-sarker.web.app/)
+[Portfolio Website](https://sanjoy-sarker.web.app/)    ✉ sanjoysarker157@gmail.com
 
 ## About Me
 I'm Sanjoy Sarker. I am from Kishoregonj, Dhaka. But currently staying at gazipur, Dhaka. I am a final year student of Computer Science Engineering in Shanto-Mariam University of creative technology.

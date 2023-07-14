@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/R0QfQ7m/Sanjoy-Sarker.png)
 ## Hi 👋 I'm Sanjoy Sarker
 
 ### I'm a junior full stack web developer

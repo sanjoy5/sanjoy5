@@ -6,7 +6,7 @@
 [Portfolio Website](https://sanjoy-sarker.web.app/)    ✉ sanjoysarker157@gmail.com
 
 ## About Me
-I'm Sanjoy Sarker. I am from Kishoregonj, Dhaka. But currently staying at gazipur, Dhaka. I am a final year student of Computer Science Engineering in Shanto-Mariam University of creative technology.
+I'm Sanjoy Sarker. I am from Kishoregonj, Dhaka. But currently staying at gazipur, Dhaka. I have completed the B.Sc. in Computer Science Engineering (CSE) from The University of South Asia.
 
 As a junior full stack web developer, I have 2+ years of hands-on experience and gained proficiency in a wide range of technologies and frameworks. Recently, I have completed the Complete Web Development Course from Programming Hero. Additionally, I have acquired skills in Python Django through the Complete Course on Udemy and The Ultimate Django Series from Code With Mosh.
 
